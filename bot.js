@@ -1,7 +1,7 @@
 /*
  * Discord Bot Zueira The Maid
  * Version 0.9
- * Zueira test 1
+ * Zueira test 2
  */
 
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
